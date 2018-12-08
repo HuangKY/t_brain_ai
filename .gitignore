@@ -107,3 +107,6 @@ venv.bak/
 
 # Custom ignore
 mecab-ipadic-neologd
+
+# Data Folder
+data/
